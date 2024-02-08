@@ -1,0 +1,21 @@
+1 - Variáveis e Operações com Números:
+Crie duas variáveis, a e b, atribua valores e realize as seguintes operações:
+
+Soma (a + b).
+Subtração (a - b).
+Multiplicação (a * b).      
+Divisão (a / b).
+Divisão Inteira (a // b).
+Resto da Divisão (a % b).
+Potenciação (a ** b).
+Declare uma variável para representar o raio de um círculo e calcule sua área usando a fórmula área = π * raio^2. Considere π como 3.14.
+
+
+Manipulação de Strings:
+Declare duas strings, nome e sobrenome, e concatene-as para formar o nome completo. Imprima o resultado.
+
+Crie uma string que represente uma frase e use métodos de string para:
+
+Converter todas as letras para maiúsculas.
+Converter todas as letras para minúsculas.
+Substituir uma palavra por outra na frase.
